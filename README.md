@@ -1,7 +1,7 @@
 # Sazma Parween — Data Science Portfolio
 
 A responsive React + Vite portfolio featuring Sazma Parween's M.Sc. & B.Sc. education, GitHub projects, internship certificates, course certificates, LinkedIn, and GitHub links.
-
+## portfolio link : https://sazma-portfolio.vercel.app/
 ## Run locally
 
 1. Install Node.js (LTS) from https://nodejs.org/
